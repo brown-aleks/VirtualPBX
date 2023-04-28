@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33620.401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualPBX.Web", "VirtualPBX.Web\VirtualPBX.Web.csproj", "{2EB8C6AF-1BA3-46A3-831A-27636DD8324A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualPBX.DAL", "VirtualPBX.DAL\VirtualPBX.DAL.csproj", "{CEB3D15B-00D1-4A68-B477-A81B74B8C9D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB8C6AF-1BA3-46A3-831A-27636DD8324A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB8C6AF-1BA3-46A3-831A-27636DD8324A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB8C6AF-1BA3-46A3-831A-27636DD8324A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB8C6AF-1BA3-46A3-831A-27636DD8324A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB3D15B-00D1-4A68-B477-A81B74B8C9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB3D15B-00D1-4A68-B477-A81B74B8C9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB3D15B-00D1-4A68-B477-A81B74B8C9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB3D15B-00D1-4A68-B477-A81B74B8C9D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5F53FE7-44F4-424D-A3B9-E01BF2644575}
+	EndGlobalSection
+EndGlobal
